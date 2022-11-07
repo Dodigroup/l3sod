@@ -1,2 +1,3 @@
 # l3sod
-our first programs
+welcome to our first programs
+ on git hub
